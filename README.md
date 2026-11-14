@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-793-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-794-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -44,7 +44,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Official and Reference Servers](#official-and-reference) (11)
 - [Databases and Storage](#databases-and-storage) (19)
 - [Developer Tools and Code Intelligence](#developer-tools-and-code-intelligence) (82)
-- [Browsers, Search, and Web Automation](#browsers-search-and-web-automation) (75)
+- [Browsers, Search, and Web Automation](#browsers-search-and-web-automation) (76)
 - [Filesystems and Documents](#filesystems-and-documents) (32)
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (34)
 - [Communication and Productivity](#communication-and-productivity) (98)
@@ -321,6 +321,8 @@ Browse the web, scrape content, search, and automate browser interactions.
   `screenshot` `pdf` `web-extraction` `remote`
 - **[AgentSearch](https://github.com/agentsearchhq-coder/agentsearch-mcp)** `Official` `TypeScript` — Web search, URL-to-Markdown, JS render, and search_and_read for agents. Free keyless search (25/day per IP) plus an extract/render trial; paid via direct x402 on Base ($0.008/$0.007/$0.010/$0.015). `npx -y @agentsearchhq/agentsearch-mcp`.  
   `web-search` `web-extraction` `markdown` `rendering`
+- **[AgentWeb](https://agentweb.us)** `Official` `Other` — Hosted remote MCP server that lets any agent act on real signed-in sites through typed, verified actions. ([source](https://github.com/AgentWeb-Labs/agentweb-mcp))  
+  `web-automation` `browser-automation` `remote`
 - **[agproxy](https://agproxy.shveik.dev)** `Official` `Go` — Pay-per-call residential proxy traffic and raw fetch for agents, with country targeting and sticky sessions; paid with x402 stablecoins, no API key.  
   `proxy` `residential-proxy` `x402` `remote`
 - **[AI Resources](https://github.com/Drix10/ai-resources/tree/main/mcp)** `Official` `JavaScript` — Search and read dated AI news briefings on model releases, dev tools, funding rounds and research, each linking to the original post; no API key. ([source](https://github.com/Drix10/ai-resources))  
